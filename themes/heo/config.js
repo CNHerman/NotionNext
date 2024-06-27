@@ -34,7 +34,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
+    '学不可以已',
     '轻装策马青云路',
     '人生从此驭长风'
   ],
@@ -60,10 +60,10 @@ const CONFIG = {
     {
       title_1: 'huatu',
       img_1: '/images/heo/huatu.png',
-      color_1: '#fffff',
+      color_1: '#FF3F47',
       title_2: 'zhonggong',
       img_2: '/images/heo/zhonggong.png',
-      color_2: '#ffffff'
+      color_2: '#E60012'
     },
     {
       title_1: 'fenbi',
@@ -84,10 +84,10 @@ const CONFIG = {
     {
       title_1: 'gaotu',
       img_1: '/images/heo/gaotu.png',
-      color_1: '#ffffff',
+      color_1: '#F5232D',
       title_2: 'gongwuyuan',
       img_2: '/images/heo/gongwuyuan.png',
-      color_2: '#ffffff'
+      color_2: '#8A0102'
     },
     {
       title_1: 'xintujing',
@@ -95,7 +95,7 @@ const CONFIG = {
       color_1: '#126EFD',
       title_2: 'tidian',
       img_2: '/images/heo/tidian.png',
-      color_2: '#ffffff'
+      color_2: '#24C5AB'
     }
   ],
 
