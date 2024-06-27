@@ -52,50 +52,50 @@ const CONFIG = {
     {
       title_1: 'leida',
       img_1: '/images/heo/leida.png',
-      color_1: '#989bf8',
+      color_1: '#009B8C',
       title_2: 'xingguang',
       img_2: '/images/heo/xingguang.png',
-      color_2: '#ffffff'
+      color_2: '#F3BE26'
     },
     {
       title_1: 'huatu',
       img_1: '/images/heo/huatu.png',
-      color_1: '#57b6e6',
+      color_1: '#fffff',
       title_2: 'zhonggong',
       img_2: '/images/heo/zhonggong.png',
-      color_2: '#4082c3'
+      color_2: '#ffffff'
     },
     {
       title_1: 'fenbi',
       img_1: '/images/heo/fenbi.png',
-      color_1: '#ffffff',
+      color_1: '#0099FF',
       title_2: 'banyuetan',
       img_2: '/images/heo/banyuetan.png',
-      color_2: '#ffffff'
+      color_2: '#C61420'
     },
     {
       title_1: 'sihai',
       img_1: '/images/heo/sihai.png',
-      color_1: '#eb6840',
+      color_1: '#1DDA64',
       title_2: 'buzhi',
       img_2: '/images/heo/buzhi.png',
-      color_2: '#8f55ba'
+      color_2: '#DAE5F5'
     },
     {
       title_1: 'gaotu',
       img_1: '/images/heo/gaotu.png',
-      color_1: '#f29e39',
+      color_1: '#ffffff',
       title_2: 'gongwuyuan',
       img_2: '/images/heo/gongwuyuan.png',
-      color_2: '#2c51db'
+      color_2: '#ffffff'
     },
     {
       title_1: 'xintujing',
       img_1: '/images/heo/xintujing.png',
-      color_1: '#f7cb4f',
+      color_1: '#126EFD',
       title_2: 'tidian',
       img_2: '/images/heo/tidian.png',
-      color_2: '#e9572b'
+      color_2: '#ffffff'
     }
   ],
 
