@@ -29,7 +29,7 @@ const CONFIG = {
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
-  HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
+  HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: true, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
   //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
@@ -103,7 +103,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '关注公众号讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击关注公众号',
-  HEO_SOCIAL_CARD_URL: 'https://s1.img.ink/2023/05/26/08eda9a4c3b92.jpg',
+  HEO_SOCIAL_CARD_URL: 'https://pic2.ziyuan.wang/2023/05/31/78005f49ee989.png',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
