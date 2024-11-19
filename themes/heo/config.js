@@ -18,9 +18,10 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '公考上岸',
   HEO_HERO_TITLE_2: '奋力一搏',
   HEO_HERO_TITLE_3: 'NOTE.XINFAYE.TOP',
-//  HEO_HERO_TITLE_4: '新版上线',
-//  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://note.xinfaye.top',
+  
+  HEO_HERO_TITLE_4: '2025公考',
+  HEO_HERO_TITLE_5: '网课学习',
+  HEO_HERO_TITLE_LINK: 'https://note.xinfaye.top/article/77627e76-bd40-446b-a85d-5887eebcf180',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -29,8 +30,8 @@ const CONFIG = {
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
-  HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: true, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
-    HERO_RECOMMEND_COVER: 'https://pic2.ziyuan.wang/user/Herman/2024/11/20230115_123006_67fadf59534c1.jpg', // 英雄区右侧图片
+  HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: flase, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
+  //  HERO_RECOMMEND_COVER: 'https://pic2.ziyuan.wang/user/Herman/2024/11/20230115_123006_67fadf59534c1.jpg', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
