@@ -18,7 +18,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '公考上岸',
   HEO_HERO_TITLE_2: '奋力一搏',
   HEO_HERO_TITLE_3: 'NOTE.XINFAYE.TOP',
-  
+  // 右侧
   HEO_HERO_TITLE_4: '2025公考',
   HEO_HERO_TITLE_5: '网课学习',
   HEO_HERO_TITLE_LINK: 'https://note.xinfaye.top/article/77627e76-bd40-446b-a85d-5887eebcf180',
