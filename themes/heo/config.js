@@ -20,8 +20,8 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'NOTE.XINFAYE.TOP',
   // 右侧
   HEO_HERO_TITLE_4: '2026公考',
-  HEO_HERO_TITLE_5: '网课学习',
-  HEO_HERO_TITLE_LINK: 'https://note.xinfaye.top/article/1d4465b8-4d75-800b-b8dd-e2a8ff75bf43',
+  HEO_HERO_TITLE_5: '必将上岸',
+  HEO_HERO_TITLE_LINK: 'https://note.xinfaye.top/article/337465b8-4d75-80ca-a196-d9c9655d38a7',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
