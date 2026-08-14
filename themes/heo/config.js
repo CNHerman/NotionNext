@@ -94,9 +94,9 @@ const CONFIG = {
       title_1: 'xintujing',
       img_1: '/images/heo/xintujing.png',
       color_1: '#126EFD',
-      title_2: 'tidian',
-      img_2: '/images/heo/tidian.png',
-      color_2: '#24C5AB'
+      title_2: 'shangancun',
+      img_2: '/images/heo/shangancun.png',
+      color_2: '#c8161e'
     }
   ],
 
